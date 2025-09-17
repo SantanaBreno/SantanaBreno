@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-S
-/ou estudante de **Engenharia de Software** na Inteli - Instituto de Tecnologia e Liderança. Já desenvolvi **11 projetos acadêmicos** abrangendo áreas como desenvolvimento web e mobile, cloud computing, arquitetura de software, microsserviços, CI/CD e machine learning.
+Sou estudante de **Engenharia de Software** na Inteli - Instituto de Tecnologia e Liderança. Já desenvolvi **11 projetos acadêmicos** abrangendo áreas como desenvolvimento web e mobile, cloud computing, arquitetura de software, microsserviços, CI/CD e machine learning.
 
 Possuo experiência prática adquirida em **3 estágios de férias**, além de participação em hackathons e outras atividades de aprendizado. Atualmente, busco oportunidades como **Desenvolvedor**. Sou apaixonado por desenvolvimento e, se quiser entrar em contato, siga os meus meios de comunicação abaixo.
 
@@ -137,7 +136,7 @@ Possuo experiência prática adquirida em **3 estágios de férias**, além de p
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanabreno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaBreno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
